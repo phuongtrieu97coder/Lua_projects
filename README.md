@@ -1,4 +1,5 @@
-# <img src="https://github.com/phuongtrieu97coder/Lua_projects/assets/82598726/a3f19f32-b1ae-433a-9909-96ed30da56db" alt="Lua" width="100px" height="100px">
+![image](https://github.com/user-attachments/assets/d263c013-e182-47eb-bae3-1b5350c2294b)
+
 
 ![image](https://github.com/phuongtrieu97coder/Lua_projects/assets/82598726/ef1d59ed-0b3f-4c1d-a507-704ef4f67e1a)
 
